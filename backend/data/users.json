@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1791801807485",
+    "name": "harsha",
+    "email": "harsha1@gmail.com",
+    "password": "$2a$10$qBGdcBTAILoAPr48Tyq.fueGUz/YU8CGE2AF0cb7sm.qPFDacSuAi",
+    "createdAt": "2026-10-12T10:43:27.485Z"
+  },
+  {
+    "_id": "1792125998194",
+    "name": "harsha",
+    "email": "h@gmail.com",
+    "password": "$2a$10$2C3UzdPdBKQOB9bIp1aiZuafXGvtd2CwxCDDEwwPOrGe5UgDnpdPC",
+    "createdAt": "2026-10-16T04:46:38.194Z"
+  }
+]
